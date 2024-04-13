@@ -8,7 +8,7 @@
 - Lora Saiga 7B
 
 ## 📝 Установка:
-- [Скачать проект](https://drive.google.com/drive/folders/1epzYmBIf3pjP9Xx8un6kJo1Wj9GWzm2C?usp=drive_link)
+- [Скачать проект](https://drive.google.com/drive/folders/1epzYmBIf3pjP9Xx8un6kJo1Wj9GWzm2C?usp=drive_link){:target="_blank"}
 - Запустить `gradio_app.bat`
 
 ## ℹ️ Использование:
