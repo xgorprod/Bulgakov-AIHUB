@@ -1,7 +1,7 @@
 # Bulgakov AIHUB🤖
 ИИ Чат-бот на Python/Gradio для IThub LXP.
 ## 👾 Интерфейс 
-<img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/08eb5845-ced5-49a3-916e-8af730759066"></img>
+<img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/a7b0d173-b6fe-4012-8f8f-bcfb3cac1760"></img>
 ## ✨ Модель
 <img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/1fdcd935-55d3-456f-a78e-192243b3543d"></img>
 ## ⚙️ Кастомизация 
