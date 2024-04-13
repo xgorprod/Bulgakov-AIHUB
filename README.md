@@ -1,5 +1,5 @@
 # Bulgakov AIHUB🤖
-ИИ Чат-бот на Python/Gradio.
+ИИ Чат-бот на Python/Gradio для IThub LXP.
 
 <img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/08eb5845-ced5-49a3-916e-8af730759066">
 
