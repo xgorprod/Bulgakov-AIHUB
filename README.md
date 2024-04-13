@@ -9,6 +9,7 @@
 
 ## 📝 Установка:
 - Скачать проект: <a href="https://drive.google.com/drive/folders/1epzYmBIf3pjP9Xx8un6kJo1Wj9GWzm2C?usp=drive_link" target="_blank">Google Drive</a>
+- Распаковать архив (WinRAR/7-Zip)
 - Запустить `gradio_app.bat`
 
 ## ℹ️ Использование:
