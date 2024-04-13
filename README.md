@@ -9,6 +9,7 @@
 
 ## 📝 Установка:
 - <a href="https://drive.google.com/drive/folders/1epzYmBIf3pjP9Xx8un6kJo1Wj9GWzm2C?usp=drive_link" target="_blank">Скачать проект</a>
+- <a href="https://github.com/xgorprod" target="_blank">Скачать проект</a>
 - Запустить `gradio_app.bat`
 
 ## ℹ️ Использование:
