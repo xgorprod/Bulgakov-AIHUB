@@ -1,13 +1,14 @@
 # Bulgakov AIHUB🤖
 ИИ Чат-бот на Python/Gradio.
 
+![изображение](https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/08eb5845-ced5-49a3-916e-8af730759066)
+
 ## 🛠️ Что использовали:
 - SaigaQ8 (RU Llama)
 - Lora Saiga 7B
 
 ## 📝 Установка:
 - [Скачать проект](https://drive.google.com/drive/folders/1epzYmBIf3pjP9Xx8un6kJo1Wj9GWzm2C?usp=drive_link)
-  - Перенести папки models, loras в рабочую директорию `aihub_webui`
 - Запустить `gradio_app.bat`
 
 ## ℹ️ Использование:
@@ -16,4 +17,5 @@
 - Логи в формате JSON
   - `logs\chat\AIHUB\`
 
-*http://orangehood.org/*
+
+Made with 🧡 by **http://orangehood.org/**
