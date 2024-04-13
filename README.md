@@ -17,5 +17,4 @@
 - Логи в формате JSON
   - `logs\chat\AIHUB\`
 
-<br></br>
 Made with 🧡 by **http://orangehood.org/**
