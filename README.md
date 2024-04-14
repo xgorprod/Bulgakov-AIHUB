@@ -6,7 +6,10 @@
 <img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/1fdcd935-55d3-456f-a78e-192243b3543d"></img>
 ## ✦ Кастомизация 
 <img src="https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/b06b95d1-effe-4e45-80a9-c9f015787c4f"></img>
- 
+## ✦ Демонстрация
+https://github.com/xgorprod/Bulgakov-AIHUB/assets/69267941/037923df-dad7-4069-aaa5-a6c2a10fb240
+
+
 ## 🛠️ Что использовали
 - SaigaQ8 (RU Llama)
 - Lora Saiga 7B
